@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<manifest> 
+<project name="ospreydevelopment/device_motorola_osprey" path="device/motorola/osprey" remote="github" revision="pie" />
+<project name="ospreydevelopment/device_motorola_msm8916-common" path="device/motorola/msm8916-common" remote="github" revision="pie" />
+<project name="ospreydevelopment/kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="github" revision="pie" />
+<project name="ospreydevelopment/vendor_motorola" path="vendor/motorola" remote="github" revision="pie" />
+<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
+<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
+<project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.1" />
+<project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-16.0" />
+	<!-- Linaro 7.3 kernel toolchain -->
+<project name="dev-harsh1998/GCC_BUILDS" path="prebuilts/gcc/linux-x86/arm/arm-eabi-7.3" remote="github" revision="master" />
+</manifest>
